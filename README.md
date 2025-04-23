@@ -1,4 +1,4 @@
-# Sistemske prakse 2025
+# DevOps Practice
 
 
 ## Task 1: Dockerization
